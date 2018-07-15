@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PNPViews_Example' do
+  pod 'PNPViews', :path => '../'
+
+  target 'PNPViews_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
