@@ -30,7 +30,7 @@ These can be added to PNP apps to have a wealth of cusom views.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'PNPViews/Classes/**/*'
+  s.source_files = 'PNPViews/Classes/*'
   
   # s.resource_bundles = {
   #   'PNPViews' => ['PNPViews/Assets/*.png']
