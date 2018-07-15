@@ -1,0 +1,22 @@
+{
+  "name": "PNPViews",
+  "version": "0.1.0",
+  "summary": "A short description of PNPViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ehardacre/PNPViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ehardacre": "hardacre.ethan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ehardacre/PNPViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PNPViews/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_PNPViews_Tests {
+  umbrella header "Pods-PNPViews_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
